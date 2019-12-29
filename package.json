@@ -1,0 +1,17 @@
+{
+  "name": "iccalc",
+  "version": "1.0.0",
+  "description": "Item and Coin Enchanted Calculator for Hypixel Skyblock",
+  "main": "app.js",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CelestialCrafterMC",
+  "license": "MIT",
+  "dependencies": {
+    "kleur": "^3.0.3",
+    "numeral": "^2.0.6",
+    "prompts": "^2.2.1"
+  }
+}
